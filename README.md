@@ -8,7 +8,6 @@
 
 A futuristic 3D developer portfolio built with modern frontend technologies featuring immersive animations, smooth transitions, glassmorphism UI, advanced 3D visuals, and cinematic storytelling.
 
-[🔗 Live Demo](https://ai.studio/apps/72c4f044-3c1f-4a80-ae52-285ad795280f)
 
 </div>
 
