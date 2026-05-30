@@ -279,7 +279,7 @@ npm run dev
 Application runs locally at:
 
 ```text
-http://localhost:5173
+http://localhost:3000
 ```
 
 ---
